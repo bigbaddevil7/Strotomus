@@ -1,2 +1,2 @@
 # Strotomus
-- [] Maps
+- [ ] Maps
